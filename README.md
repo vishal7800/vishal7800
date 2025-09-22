@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Mishra</h1>
 <h3 align="center">BE-CSE Student || Engineering my way through code, one project at a time — turning caffeine and curiosity into innovation.</h3>
 
-- 🔭 I’m currently working on [AUDEX](https://github.com/vishal7800/AUDEX)
+- 🔭 I’m currently working on [MindWhispher](https://github.com/vishal7800/MindWhispher.git)
 
 - 🌱 I’m currently learning **React, NodeJs, DSA**
 
