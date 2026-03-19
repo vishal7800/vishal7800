@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Mishra</h1>
 <h3 align="center">BE-CSE Student || Engineering my way through code, one project at a time — turning caffeine and curiosity into innovation.</h3>
 
-- 🔭 I’m currently working on [MindWhispher](https://github.com/vishal7800/MindWhispher.git)
+- 🔭 I’m currently working on [WorkWave](https://github.com/vishal7800/WorkWave.git)
 
 - 🌱 I’m currently learning **React, NodeJs, DSA**
 
