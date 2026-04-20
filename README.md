@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Mishra</h1>
 <h3 align="center">BE CSE Student | Engineering my way through code, one project at a time — turning caffeine and curiosity into innovation.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal7800&label=Profile%20views&color=0e75b6&style=flat" alt="vishal7800" /> </p>
+
 - 🔭 I’m currently working on [Workwave](https://github.com/vishal7800/WorkWave)
 
 - 🌱 I’m currently learning **React, Node.js, DSA**
