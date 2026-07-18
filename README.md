@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Workwave](https://github.com/vishal7800/WorkWave)
 
-- 🌱 I’m currently learning **React, Node.js, DSA**
+- 🌱 I’m currently learning **Vue, Quasar, DSA**
 
 - 📫 How to reach me **vishalmishra24704@gmail.com**
 
