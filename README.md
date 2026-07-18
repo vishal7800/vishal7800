@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vishalmishra24704@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wa6eKqgmfRfeOFxho2chYLOmd-T0YBCC/view?usp=sharing](https://drive.google.com/file/d/1Wa6eKqgmfRfeOFxho2chYLOmd-T0YBCC/view?usp=sharing)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vishal-mishra-0a3529316/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
