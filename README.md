@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal7800&label=Profile%20views&color=0e75b6&style=flat" alt="vishal7800" /> </p>
 
-- 🔭 I’m currently working on [Workwave](https://github.com/vishal7800/WorkWave)
-
 - 🌱 I’m currently learning **Vue, Quasar, DSA**
 
 - 📫 How to reach me **vishalmishra24704@gmail.com**
